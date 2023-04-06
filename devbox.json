@@ -1,0 +1,11 @@
+{
+  "packages": [
+    "nodejs-18_x"
+  ],
+  "shell": {
+    "init_hook": null
+  },
+  "nixpkgs": {
+    "commit": "4a65e9f64e53fdca6eed31adba836717a11247d2"
+  }
+}
